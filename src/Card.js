@@ -23,7 +23,7 @@ class Resources extends Card {
         this.materials = rules[1].split(",");
         this.bottom = rules[2];
         this.consumable;
-        if (this.bottom.includes("consume")){
+        if (this.materials.includes("consumable")){
             this.consumable = true;
         } else {
             this.consumable = false;
