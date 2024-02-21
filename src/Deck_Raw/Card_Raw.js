@@ -1,5 +1,8 @@
 class Card {
     constructor(text) {
+        this.rating = "";
+        this.name = "";
+        this.type = "";
         this.text = text;
     }
 
@@ -28,6 +31,17 @@ class Resources extends Card {
         } else {
             this.consumable = false;
         }
+    }
+}
+
+class AI_Card extends Card {
+    constructor(text) {
+        super(text);
+        const rules = text.split("$");
+        this.rating = rules[0];
+        this.name = rules[1];
+        this.type = rules[2];
+        this.text = rules[3];
     }
 }
 

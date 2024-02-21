@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+import './Monster';
 function App() {
   return (
     <div className="App">
@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          {const Tom = White_Lion.create("White Lion", 2)};
+          <p>{Tom.stats}</p>
         </a>
       </header>
     </div>
