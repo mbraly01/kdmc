@@ -1,19 +1,22 @@
-class M_Stats {
+class M_Stats{
     constructor(M_type, level) {
-        this.M_type = M_type;
-        this.level = level;
+        this.state = {
+            M_type: M_type,
+            level: level,
+            stats: []
+        }
 
         //Stats: [movement, toughness, speed, damage, luck, accuracy, evasion]
 
         switch(this.M_type) {
             case "White Lion":
-                this.stats = this.assign_level_WL(level);
+                this.state.stats = this.assign_level_WL(level);
                 break;
             case "Screaming Antelope":
-                this.stats = this.assign_level_SA(level);
+                this.state.stats = this.assign_level_SA(level);
                 break;
             case "Phoenix":
-                this.stats = this.assign_level_P(level);
+                this.state.stats = this.assign_level_P(level);
                 break;
             case "Butcher":
                 this.stats = this.assign_level_B(level);
@@ -55,6 +58,8 @@ class M_Stats {
     }
 
     inc_dmg(inc) {
-        this.stats[3] += inc;
+        this.state.stats[3] += inc;
     }
 }
+
+export default M_Stats;

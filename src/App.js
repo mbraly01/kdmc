@@ -1,6 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import './Monster';
+import Showdown from './Stages/Showdown';
+import {Monster, monster_name} from './MonsterII/Monster';
+
+import React from 'react';
 function App() {
   return (
     <div className="App">
@@ -15,8 +18,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          {const Tom = White_Lion.create("White Lion", 2)};
-          <p>{Tom.stats}</p>
+          <h1> {monster_name(new Monster("White Lion",1))}</h1>
+          <h2>{Showdown()}</h2>
         </a>
       </header>
     </div>

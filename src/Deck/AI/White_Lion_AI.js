@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Basic_Attack(WL) {
     WL.attack(1);
     return;
@@ -53,3 +55,5 @@ function Power_Squat(WL) {
     WL.attack([1,2,2]);
     print("After Damage (Knockback 6)");
 }
+
+export * from './White_Lion_AI';

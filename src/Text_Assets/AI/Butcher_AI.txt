@@ -1,0 +1,2 @@
+S$Frenzied Berzerker$Trait$Draw +2 AI every monster turn.
+S$Berzerker$Trait$Draw +1 AI every monster turn.
