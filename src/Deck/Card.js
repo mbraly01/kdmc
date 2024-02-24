@@ -41,22 +41,22 @@ class AI_Card extends Card {
         this.state.name = this.state.rules[1];
         this.state.type = this.state.rules[2];
         this.add_text = this.state.rules[3];
-        }
     }
+}
 
-    function draw() {
-        return (
-            <div>
-                <h1>{this.state.name}</h1>
-                <p>{this.state.type}</p>
-                <p>{this.state.text}</p>
-            </div>
-        )
-    }
+function draw() {
+    return (
+        <div>
+            <h1>{this.state.name}</h1>
+            <p>{this.state.type}</p>
+            <p>{this.state.text}</p>
+        </div>
+    )
+}
 
-    function card_text() {
-        return this.state.text;
-    }
+function card_text() {
+    return this.state.text;
+}
 
 export { AI_Card, Card, draw, card_text};
 

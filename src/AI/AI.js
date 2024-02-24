@@ -12,15 +12,20 @@ class AI {
     }
 
     draw(){
-        temp_AI = this.state.AI_Deck.pop();
-        if (is_this_in_play(temp_AI)){
-            this.state.AI_In_Play.append(temp_AI);
+        let temp_AI_card = this.state.AI_Deck.pop();
+        if (is_this_in_play(temp_AI_card)){
+            this.state.AI_In_Play.append(temp_AI_card);
         }
         else {
-            this.state.AI_Discard.append(temp_AI);
+            this.state.AI_Discard.append(temp_AI_card);
         }
-        return temp_AI;
+        return temp_AI_card;
     }
+}
+
+function execute(card, monster){
+    window[card.name](monster);
+    return; 
 }
 
 function is_this_in_play(card){
@@ -32,3 +37,4 @@ function is_this_in_play(card){
     }
 }
 
+export { AI, execute, is_this_in_play} from './AI';
