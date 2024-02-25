@@ -1,0 +1,21 @@
+Mammoth Hand$bone, hide, organ$An enormous, leathery glove.
+Mammoth Hand$bone, hide, organ$An enormous, leathery glove.
+Jiggling Lard$organ, hide$Thick, quivering mass
+Stout Kidney$organ$Consume: archive this and roll 1d10. On a result of 6+, gain 10 survival. Otherwise, reduce your sruvival to 0.
+Stout Kidney$organ$Consume: archive this and roll 1d10. On a result of 6+, gain 10 survival. Otherwise, reduce your sruvival to 0.
+Stout Heart$organ$A titanic pump.
+Stout Heart$organ$A titanic pump.
+Milky Eye$When this resource is gained, select a survivor to gain +3 insanity.
+Gorm Brain$organ$Shockingly small
+Acid Gland$organ$Melts skin.
+Stout Hide$hide$Tough, wrinkly skin.
+Stout Hide$hide$Tough, wrinkly skin.
+Stout Hide$hide$Tough, wrinkly skin.
+Stout Hide$hide$Tough, wrinkly skin.
+Meaty Rib$bone, organ$Useful and delicious
+Meaty Rib$bone, organ$Useful and delicious
+Stout Vertebrae$bone$Hefty and intricately jointed.
+Handed Skull$bone$Incomparably dense.
+Dense Bone$bone$Sturdy.
+Dense Bone$bone$Sturdy.
+Jiggling Lard$organ, hide$Thick, quivering mass

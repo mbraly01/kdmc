@@ -62,4 +62,4 @@ class M_Stats{
     }
 }
 
-export default M_Stats;
+export { M_Stats} from '/Users/matthewbraly/Documents/KDMC/kdmc/src/Monster/M_Stats.js';

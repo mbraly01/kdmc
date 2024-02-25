@@ -1,4 +1,4 @@
-import M_Stats from './M_Stats';
+import { M_Stats } from './M_Stats';
 import { Basic_Attack, Power_Squat, Grasp, Enraged,
     Vicious, Smart_Cat, Sniff} 
     from '/Users/matthewbraly/Documents/KDMC/kdmc/src/AI/White_Lion_AI.js';
