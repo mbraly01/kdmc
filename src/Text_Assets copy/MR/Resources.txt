@@ -1,0 +1,25 @@
+Monster Bone$bone$A bone suitable for crafting
+Monster Bone$bone$A bone suitable for crafting
+Monster Bone$bone$A bone suitable for crafting
+Monster Bone$bone$A bone suitable for crafting
+Perfect Bone$perfect,bone$A mind numbingly perfect bone.
+???$organ,bone,hide,consumable$You have no idea what monster bit this is. Can be used as a bone, organ, or hide!
+???$organ,bone,hide,consumable$You have no idea what monster bit this is. Can be used as a bone, organ, or hide!
+Monster Organ$organ,consumable$If you consume this, archive this card. Roll 1d10. On a result of 6+, you contract a parasite. Archive all consumable gear on your grid now.
+Monster Organ$organ,consumable$If you consume this, archive this card. Roll 1d10. On a result of 6+, you contract a parasite. Archive all consumable gear on your grid now.
+Monster Organ$organ,consumable$If you consume this, archive this card. Roll 1d10. On a result of 6+, you contract a parasite. Archive all consumable gear on your grid now.
+Perfect Organ$perfect,organ,consumable$If you consume this, archive this card. Roll 1d10. On a result of 6+, you contract a millenium parasite and gain +10 Hunt XP.
+Monster Hide$hide$the skin of a beast
+Monster Hide$hide$the skin of a beast
+Monster Hide$hide$the skin of a beast
+Monster Hide$hide$the skin of a beast
+Monster Hide$hide$the skin of a beast
+Monster Hide$hide$the skin of a beast
+Monster Hide$hide$the skin of a beast
+Lump of Atnas$organ,bone,hide,consumable$Nostrils flare with delight. A pungent pine scent emanates from the quivering lump. At the start of the settlement phase, if there are 5 or more Lumps of Atnas in storage, their scent draws a survivor sniffing through the darkness. Gain +1 population, this survivor has a random disorder (limit once per settlement).
+Love Juice$organ,consumable$During the settlement phase, you may archive this to READ Intimacy. Nominated survivors must be able to consume.
+Love Juice$organ,consumable$During the settlement phase, you may archive this to READ Intimacy. Nominated survivors must be able to consume.
+Broken Lantern$scrap$Remains of an extinguished lantern.
+Broken Lantern$scrap$Remains of an extinguished lantern.
+Perfect hide$perfect,hide$Supreme texture.
+Skull$bone$When you gain this, a survivor of your choice gains +1 insanity.

@@ -1,0 +1,17 @@
+Golden Whiskers$organ$These whiskers are tough!Shimmering Mane$hide,$Archive this to gain 2 basic hide resources. It shimmers in the light.Eye of Cat$organ,consumable,$A perfectly preserved eye.
+Lion Tail$hide$It's suprisingly heavy.
+Curious Hand$hide$When you gain this, a random survivor gains +1 insanity. Holding this fills you with sadness.
+Lion Testes$organ,consumable$A hefty pair of nuts.
+Sinew$organ$These stringy guts are quite useful.
+Sinew$organ$These stringy guts are quite useful.
+Great Cat Bones$bone$Strong and suprisingly light.
+Great Cat Bones$bone$Strong and suprisingly light.
+Great Cat Bones$bone$Strong and suprisingly light.
+Great Cat Bones$bone$Strong and suprisingly light.
+Lion Claw$bone$A razor-sharp, retractable claw.
+Lion Claw$bone$A razor-sharp, retractable claw.
+Lion Claw$bone$A razor-sharp, retractable claw.
+White Fur$hide$Luxurious and soft to the touch.
+White Fur$hide$Luxurious and soft to the touch.
+White Fur$hide$Luxurious and soft to the touch.
+White Fur$hide$Luxurious and soft to the touch.
