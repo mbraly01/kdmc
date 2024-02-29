@@ -3,7 +3,15 @@ import {Card} from './Card';
 
 class Deck {
     constructor(text) {
-        this.cards = split(text, "\n");
+        this.cards = [];
+        this.cards_temp = split(text, "\n");
+        for (i in cards_temp){
+            this.cards.append(new Card(cards_temp[i]));
+        }
+    }
+
+    shuffle() {
+        
     }
     
     add_card(card) {
